@@ -1,0 +1,1 @@
+Activity 28 - This program provides a doubleToString function that converts a double value to a string with a fixed format up to one decimal place. The function is designed to be reusable, allowing easy conversion of any double value to a string. In the main function, the doubleToString function is called, and the converted string is printed.
