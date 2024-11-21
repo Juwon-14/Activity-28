@@ -7,12 +7,12 @@
 
 #include <iostream>
 #include "Converting.h"
-using namespace std;
 
 int main() {
     double number = 12.34;
-    cout << doubleToString(number) << endl;
+    std::cout << doubleToString(number) << std::endl;
     return 0;
 }
+
 
 
